@@ -4,7 +4,9 @@ In this project we build a vision based model for the shredder machine industry 
 
 Discrption Overview :
 
-We are hearing the number of cases that the people’s are loss their hands in machines for that we are come with an idea using the computer vision methods we can solve this problem . becase now a day the cctv is available every where and simply it can act like a 💂‍♀️ guard with using computer vision. 
+We are hearing the number of cases that the people’s are loss their hands in machines for that we are come with an idea using the computer vision methods we can solve this problem . becase now a day the cctv is available every where and simply it can act like a 💂‍♀️ guard with using computer vision. We used SSD Lite as our model and MobileNet Weight
+![1_GmJiirxTSuSVrh-r7gtJdA](https://user-images.githubusercontent.com/55822384/120699360-e7216f80-c4cd-11eb-94a9-66d310435007.png)
+
 
 Here we are implemented this solution with higher accuracy with used ssd with used hike vision camera diffrent images of hand from a company which located in hosur.
 
