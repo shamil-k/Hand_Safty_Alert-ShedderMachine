@@ -9,6 +9,7 @@ We are hearing the number of cases that the people’s are loss their hands in m
 Here we are implemented this solution with higher accuracy with used ssd with used hike vision camera diffrent images of hand from a company which located in hosur.
 
 
+![img1](https://user-images.githubusercontent.com/55822384/120697796-ca843800-c4cb-11eb-833c-5ef775544406.jpeg)
 
 
 IMPLEMENTATION:
