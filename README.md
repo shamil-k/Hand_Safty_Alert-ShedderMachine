@@ -8,8 +8,7 @@ We are hearing the number of cases that the people’s are loss their hands in m
 
 Here we are implemented this solution with higher accuracy with used ssd with used hike vision camera diffrent images of hand from a company which located in hosur.
 
-https://github.com/shamil786/Hand_Safty_Alert-ShedderMachine
-/blob/main/shredder-machine/test_images/img1.jpg?raw=true
+
 
 
 IMPLEMENTATION:
